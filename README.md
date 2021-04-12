@@ -1,6 +1,6 @@
 ## Installation
 
-- clone repo at https://captainjaypee01@github.com/inventory-app.git
+- clone repo at https://github.com/captainjaypee01/inventory-app.git
 - cp .env.example .env
 - .env required settin
 - set database connection in .env
